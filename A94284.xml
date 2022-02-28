@@ -1,0 +1,635 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands freedome, souldiers rights: vindicated against all arbitrary unjust invaders of them, and in particular against those new tyrants at Windsore, which would destroy both under the pretence of marshall law. Or, the just declaration, plea, and protestation of William Thompson, a free commoner of England, unjustly imprisoned at Windsore. Delivered to his Excellency Sir Thomas Fairfax, and that which is called his Councell of Warre, the 14. of December, 1647. Unto which is annexed his letter to the Generall, wherein the said plea was inclosed. Also a petition to the rest of his fellow-prisoners to his Excellency.</title>
+            <author>Thompson, William, d. 1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94284</idno>
+            <idno type="STC">Wing T1016</idno>
+            <idno type="STC">Thomason E419_23</idno>
+            <idno type="STC">ESTC R204646</idno>
+            <idno type="EEBO-CITATION">99864110</idno>
+            <idno type="PROQUEST">99864110</idno>
+            <idno type="VID">116330</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94284)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116330)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E419[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands freedome, souldiers rights: vindicated against all arbitrary unjust invaders of them, and in particular against those new tyrants at Windsore, which would destroy both under the pretence of marshall law. Or, the just declaration, plea, and protestation of William Thompson, a free commoner of England, unjustly imprisoned at Windsore. Delivered to his Excellency Sir Thomas Fairfax, and that which is called his Councell of Warre, the 14. of December, 1647. Unto which is annexed his letter to the Generall, wherein the said plea was inclosed. Also a petition to the rest of his fellow-prisoners to his Excellency.</title>
+                  <author>Thompson, William, d. 1649.</author>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Imperfect: pages cropped with loss of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Civil rights --  Great Britain --  Early works to 1800.</term>
+               <term>Martial law --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Prisoners and prisons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-05</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:116330:1"/>
+            <head>Englands Freedome, Souldiers Rights:
+Vindicated againſt all arbitrary unjuſt Invaders of them, and in par<g ref="char:EOLhyphen"/>ticular
+againſt thoſe new Tyrants at Windſore, which would deſtroy
+both under the pretence of Marſhall Law.</head>
+            <head type="sub">OR,<lb/>
+The juſt Declaration, Plea and Proteſtation of William Thompſon, a
+free Commoner of England, unjuſtly impriſoned at Windſore.</head>
+            <head type="sub">Delivered to his Excellency Sir Thomas Fairfax, and that which is called his
+Councell of Warre, <date>the 14. of December, 1647.</date>
+            </head>
+            <head type="sub">Unto which is annexed his Letter to the Generall, wherein the ſaid Plea was
+incloſed. Alſo a Petition of the reſt of his Fellow-Priſoners
+to his Excellency.</head>
+            <opener>
+               <salute>May it pleaſe your Excellency,</salute>
+            </opener>
+            <p>
+               <hi>I Am by birth a free Commoner of England, and am thereby</hi> intailed or in<g ref="char:EOLhyphen"/>tituled
+unto an equall priviledge with your ſelfe, or the greateſt men in Eng<g ref="char:EOLhyphen"/>land,
+unto the freedome and liberty of the Lawes of England, <hi>as the Parlia<g ref="char:EOLhyphen"/>ment
+declares in their Declaration of the 23. of October, 1642. 1 part Book
+Decl. pag. 660. And the 29. Chap. of</hi> Magna Charta <hi>expreſly ſaith,</hi> That no
+man ſhall be taken or impriſoned, or be diſſeiſed of his Freehold or Liberties, or free
+cuſtomes, or be outlawed or exiled, or any other wayes destroyed, nor paſt upon nor
+condemned, but by the lawfull Iudgement of his Peers
+<hi>(or equalls)</hi> and that by due courſe, <hi>or proceſſe of
+the Law of the Land</hi>
+               <note n="†" place="margin">See Sir <hi>Ed. Cooks</hi> Expoſi<g ref="char:EOLhyphen"/>tion hereof in his 2. part In<g ref="char:EOLhyphen"/>ſtitut. fol. 46, 47, 50, 51.</note> 
+               <hi>which expreſly ſaith,</hi> that no
+man ſhall be taken or reſtrained of his liberty, by pe<g ref="char:EOLhyphen"/>tition
+or ſuggeſtion <hi>(made unto whomſoever in au<g ref="char:EOLhyphen"/>thority)</hi>
+unleſſe it be by indictment or preſentment of good and lawfull men where
+ſuch deeds be done: and that no man whatſoever be put to anſwer <hi>(any crime
+whatſoever)</hi> without preſentment before Iuſtices or
+matter of record, or by due proceſſe and Writ origi<g ref="char:EOLhyphen"/>nall,
+according to the old Law of the Land: and if
+any thing from henceforth be done to the contrary, it
+ſhall be void in law, and holden for<note n="*" place="margin">
+                  <hi>See the</hi> 5. Ed. 3. 9. &amp; 25. Ed. 3. 4. &amp; 28. Ed. 3. 3. &amp; 37. Ed. 3. 18. &amp; 42. Ed. 3. 3. <hi>and the</hi> Petition of Right in the third of the King, <hi>and the Statutes that aboliſhed the</hi> Starre-Chamber and Ship-money, made this preſent Parliament; <hi>and</hi> Lievtenant-Colonell Lilburnes <hi>Booke called</hi> The Re<g ref="char:EOLhyphen"/>ſolved Mans Reſolution, p. 2, 3, 8, 9. <hi>and his</hi> Grand Plea againſt the Lords, p. 7, 8, 9.</note> error.</p>
+            <p>Therefore Sir, for you who are a <hi>Generall</hi> of an Army, and other of your
+<pb n="2" facs="tcp:116330:3"/>
+               <hi>Marſhall Officers,</hi> who are no Civill Court of Juſtice, nor authorized with the
+leaſt legall power in the world to adminiſter Juſtice, and execute the Law of
+the Land, upon, or unto any of the Commoners of England, to dare or pre<g ref="char:EOLhyphen"/>ſume
+to reſtraine, impriſon, trie or med<g ref="char:EOLhyphen"/>dle
+with me, as you have done, who
+am in no other capacitie in the world,
+but barely and altogether as a Commo<g ref="char:EOLhyphen"/>ner
+of England, is the height of arbitra<g ref="char:EOLhyphen"/>rie
+tyrannie; injuſtice and<note n="*" place="margin">
+                  <hi>VVell ſaith Sir</hi> Edward Cooke <hi>in the 2. part of his Inſtitutes fol.</hi> 48. that every oppreſſion againſt Law, by co<g ref="char:EOLhyphen"/>lour of any uſurped authority, is a kind of deſtruction: for when any thing is forbidden, all that tends to it is alſo forbidden: and it is <hi>(ſaith he)</hi> the worſt oppreſſion that is done by colour of juſtice. <hi>See alſo Lib. 10. fol. 14. in the eaſe of the Mar<g ref="char:EOLhyphen"/>ſhalſea.</hi>
+               </note> oppreſſion,
+and an abſolute deſtruction of the very
+fundamentall Lawes of England, the
+bare endeavouring of which coſt the
+Earl of <hi>Strafford</hi> his head. And what the
+doome of him is that deſtroyes the fun<g ref="char:EOLhyphen"/>damentall
+Lawes of the Land, I ſhall
+give you out of the words of your own
+friend Mr. <hi>St. John,</hi> in his Argument of law concerning the Bill of Attainder
+of high Treaſon of <hi>Thomas Earl of Strafford,</hi> at a Conference in a Committee
+of both Houſes of Parliament, printed by <hi>G. M.</hi> for <hi>John Bartlet</hi> at the ſigne
+of the gilt Cup neere S. <hi>Auſtins</hi> Gate in <hi>Pauls</hi> Church-Yard 1641. who in the
+70. page thereof ſaith, <hi>That the deſtruction of the Lawes diſſolves the arteries &amp;
+ligaments that hold the Body together: he that takes away the Lawes, takes not a<g ref="char:EOLhyphen"/>way
+the allegiance of one Subject alone,
+but of the whole Kingdome: it was</hi> (ſaith
+he) <hi>made treaſon by the Statute of the</hi>
+13. Eliz. <hi>for her time, to affirme, that the
+Lawes of the Realme do not bind the de<g ref="char:EOLhyphen"/>ſcent
+of the Crowne; no Law, no deſcent
+at all: No Lawes,</hi> ſaith he, <hi>no Pe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rage,
+no ranks or degrees of men</hi>
+               <note n="†" place="margin">And therefore you, with your deal<g ref="char:EOLhyphen"/>ings with me, that am meerly a free Commoner of <hi>England,</hi> and ſo not in the leaſt under your Marſhall Diſ<g ref="char:EOLhyphen"/>cipline (but ſolelie and onelie under the diſcipline of the knowne, decla<g ref="char:EOLhyphen"/>red and eſtabliſhed Lawes of <hi>Eng<g ref="char:EOLhyphen"/>land)</hi> by your arbitrarie tirannicall actings upon me, have abſolutelie as much as in you lies, deſtroied the fundamentall Lawes of <hi>England,</hi> and therfore are as abſolute Hedge-brea<g ref="char:EOLhyphen"/>kers and Levellers as ever were in this Kingdome.</note>; <hi>the ſame con<g ref="char:EOLhyphen"/>dition
+to all. Jt's treaſon to kill a Judge
+upon the Bench, this kills not the Judge, but
+the Judgement.</hi> And in pag. 71. he ſaith,
+<hi>Jt's Felonie to imbezell any of the Judici<g ref="char:EOLhyphen"/>all
+Records of the Kingdome; this,</hi> viz.
+the deſtruction of the Law, <hi>ſweeps all a<g ref="char:EOLhyphen"/>way,
+and from all.</hi>
+            </p>
+            <p>It's treaſon to counterfeit a twenty ſhilling piece, here is a counterfeiting of the
+Law, we can call neither the counterfeit, nor the true coyne our owne.</p>
+            <p>It's Treaſon to counterfeit the great Seale for an Acre of Land, no property
+<pb n="3" facs="tcp:116330:3"/>
+hereby <hi>(viz. the deſtruction of the Law)</hi> is left to any Land at all: nothing Trea<g ref="char:EOLhyphen"/>ſon
+now, either againſt King or Kingdome, no Law to puniſh it.</p>
+            <p>And therefore I adviſe you as a friend to take heed that you go no further
+on in your illegall, arbitrary, tyrannicall and Law-deſtroying practiſes with and
+towards me, leaſt when for your owne lives you claime the benefit of the Law,
+you be anſwered in the words of your foreſaid friend in pag. 72 <q>That he in
+vaine calls for the help of the Law that walks contrary unto Law, and from
+the Law of like for like; hee that would not have others to have Law,
+why ſhould he have any himſelfe? why ſhould not that be done to him, that
+himſelfe would have done to another? It is true, (ſaith he <hi>Ibid.)</hi> we give
+Law to Hares and Deers, becauſe they be beaſts of chaſe, but it was never
+accounted either cruelty or foule play to knock Foxes and Wolves on the
+head as they can be found, becauſe theſe be beaſts of prey: the Warrener ſets
+traps for Poulcats and other vermine, for preſervation of the Warren.</q>
+            </p>
+            <p>
+               <hi>And in</hi> pag. 76. <hi>hee ſaith, in the</hi>
+11. R. 2. Treſilian, And ſome others attain<g ref="char:EOLhyphen"/>ted
+of Treaſon for delivering opinions in
+the ſubverſion of the Law, and ſome others
+for plotting the like<note n="*" place="margin">Read alſo to this purpoſe Mr. <hi>John Pyms</hi> Speech againſt the Earl of <hi>Straf<g ref="char:EOLhyphen"/>ford,</hi> the 12. of April 1641. printed by <hi>John Bartlet,</hi> but eſpecially p. 5. 6. 8. 9. 13. 18. 23. 24.</note>.</p>
+            <p>But if you ſhall object, that you deale with me as you are a Generall and
+Officers of an Army by Marſhall Law, for endeavouring to make mutinies or
+tumults in your Army, or by blaſting and defaming your reputations, and ſo
+drawing your Souldiers from their affection and obedience unto you.</p>
+            <p>I anſwer in the firſt place, there can in this Kingdome be no pretence for
+Marſhall Law, but when the Kingdome is in a generall hurly-burly and uproare,
+and an Army or Armies of declared enemies in the Field, proſecuting with
+the ſword the deſtruction of the whole, and thereby ſtopping the regular and
+legall proceedings of the Courts of Juſtice from puniſhing offenders and
+tranſgreſſors.</p>
+            <p>But now there being neither Army nor Armies of declared enemies in the
+field, nor no Garriſons in the poſſeſſions of any ſuch men, nor no generall
+hurly-burlies and uproares by any ſuch men in the Kingdome, but all ſuch are
+viſibly ſubdued and quieted, and all Courts of Juſtice open and free to puniſh
+offenders and tranſgreſſors; and therefore even to the Army it ſelfe and the
+Officers and Souldiers therein, there is no reaſon or ground for exerciſing of
+Marſhall Law, much leſſe over Commoners that are not under the obedience of
+the Army, which is my cauſe.</p>
+            <p>And that in time of peace, there neither is, nor can be any ground of exer<g ref="char:EOLhyphen"/>ciſing
+and executing of Marſhall Law; I prove out of the Petition of Right
+<pb n="2" facs="tcp:116330:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:116330:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:116330:4"/>
+which was made in the third yeare of the preſent King, and is printed in <hi>Pub<g ref="char:EOLhyphen"/>tons</hi>
+Collection of Statutes at large, <hi>fol.</hi> 1431. 1432. which expreſly ſaith, that
+by Authoritie of Parliament, in the 25. yeare of the Reign of King <hi>Edward</hi>
+the third, it is declared and enacted, <q>That no man ſhould be forejudged of
+life or limb againſt the forme of the great Charter and the Law of the
+Land, and by the ſaid great Charter, and other the Lawes
+and Statutes of this Realme, no man ought to be ad<g ref="char:EOLhyphen"/>judged
+to death, but by the Law eſtabliſhed in this
+Realme</q>
+               <note n="*" place="margin">
+                  <hi>See the</hi> 9. H. 3. 29. 5. Ed. 3. 9. &amp; 25. Ed. 3. 4. &amp; 28. Ed. 3. 3.</note>.</p>
+            <p>
+               <q>And whereas no offendor of what kind ſoever is exempted from the pro<g ref="char:EOLhyphen"/>ceedings
+to be uſed, and puniſhments to be inflicted by the Lawes and Sta<g ref="char:EOLhyphen"/>tutes
+of this your Realme: Nevertheleſſe of late divers Commiſſions under
+your Majeſties great Seale have iſſued forth, by which certaine perſons have
+been aſſigned and appointed Commiſſioners, with power and authority to
+proceed within the land, according to the juſtice of Martiall Law, againſt ſuch
+Souldiers and Mariners, or other diſſolute perſons joyning with them, as ſhould
+commit any murder, robberie, felonie, mutinie, or other outrage or miſdemeanor
+whatſoever, and by ſuch ſummarie courſe and order, as is agreeable to Mar<g ref="char:EOLhyphen"/>tiall
+Law, and as is uſed in Armies in time of Warre, to proceed to the triall
+and condemnation of ſuch offendors, and them to cauſe to be executed and
+put to death according to the Law Martiall. By pretext whereof your
+Majeſties Subjects have been by ſome
+of the ſaid Commiſſioners put to
+death, when &amp; where, if by the Lawes
+and Statutes of the land they had de<g ref="char:EOLhyphen"/>ſerved
+death, by the ſame Lawes and
+Statutes alſo they might, and by no o<g ref="char:EOLhyphen"/>ther
+ought to have been judged &amp; ex<g ref="char:EOLhyphen"/>ecuted<note n="*" place="margin">Yet it is very obſervable, that at the very time when this Martiall Law complained of was executed, the King had warres with France, a forraigne enemy, but there is no ſuch thing now; and therefore the Army, or the grand Officers thereof have not the leaſt ſha<g ref="char:EOLhyphen"/>dow or pretence to execute it in the least, or to deale with me a free Com<g ref="char:EOLhyphen"/>moner, as they have done.</note>. And alſo ſundry grievous
+offendors, by colour thereof claiming
+an exemption, have eſcaped the pu<g ref="char:EOLhyphen"/>niſhment
+due to them by the Lawes
+and Statutes of this your Realme, by
+reaſon that divers of your Officers and Miniſters of Juſtice have unjuſtly re<g ref="char:EOLhyphen"/>fuſed,
+or forborne to proceed againſt ſuch offendors according, to the ſame
+Lawes and Statutes, upon pretence that the ſaid offendors were puniſhable
+onely by Martiall Law, and by authoritie of ſuch Commiſſioners as aforeſaid.
+Which Commiſſions, and all other of like nature, are wholly and directly
+contrarie to the ſaid Lawes and Statutes of this your Realme.</q>
+            </p>
+            <p>Therefore Sirs, if you have any care of your own heads &amp; lives, (though you
+<pb n="5" facs="tcp:116330:4"/>
+have none of the Liberties and Freedoms of <hi>England)</hi> I again as a friend ad<g ref="char:EOLhyphen"/>viſe
+you, to take heed what you doe unto me anie further in your illegall, arb<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>trarie
+and tirannicall way that hitherto you have proceeded with me; for
+largely underſtand that <hi>Canterbury</hi> and <hi>Strafford</hi> were this Parliament queſtio<g ref="char:EOLunhyphen"/>ned
+for their arbitrarie and tirannicall actions that they did and acted man<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+years before, and the Lord Keeper <hi>Finch</hi> was by this Parliament queſtioned fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+actions that he did when he was Speaker of the Houſe of Commons in the thir<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+of the preſent King <hi>An.</hi> 1628. and forced to flie to ſave his head.</p>
+            <p>In the ſececond place I anſwer, that if ſince the warres ended, it was or coul<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+be judged lawfull for your Excellency and your Councell of Warre to execut<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Marſhall Law: yet you have diveſted your ſelfe of that power upon the 4. an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+5. of June laſt at Newmarket Heath, you owned the ſouldiers and joyned wit<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+them, when they were put out of the States protection and declared enemies
+and further aſſociated with them by a <hi>mutuall ſo<g ref="char:EOLhyphen"/>lemne
+ingagement, as they were a Company of free
+Commoners of England to ſtand with them accor<g ref="char:EOLhyphen"/>ding
+to the Law of Nature and Nations</hi>
+               <note n="*" place="margin">See the late Plea for th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Agents.</note>, to reco<g ref="char:EOLhyphen"/>ver
+your owne and all the peoples Rights and Liberties; the words are theſe
+<hi>We the Officers and Souldiers of the Army ſubſcribing hereunto, do hereby declare
+agree and promiſe to and with each other, that we ſhall not willingly diſband nor d<g ref="char:EOLunhyphen"/>vide,
+nor ſuffer our ſelves to be diſbanded nor divided,</hi>
+               <note place="margin">* See the ingagement in th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Armies <hi>Book of Declara<g ref="char:EOLhyphen"/>tions, pag.</hi> 25. 26, 27, 28.</note>
+               <hi>untill we have ſecurity; that we as private men, or
+other the free-borne people of England, ſhall not re<g ref="char:EOLhyphen"/>maine
+ſubject to the like oppreſſion, injury, or abuſe,
+as have been attempted.</hi>
+            </p>
+            <p>Hereby it appears, that from this time you and the ſouldiery kept in a body
+and ſo were an Army, not by the States or Parliaments will, but by a mutual
+agreement amongſt all the Souldiers, and conſequently not being an Army by
+the Parliaments wills; they were not under thoſe rules of martiall Govermen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+which were given by the will of the Parliament: and your Excellencie could
+no longer exerciſe any ſuch power over them, as was allowed you by thoſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+Martiall Laws; nay, the Souldiers keeping in a body, and continuing an Army
+only by mutuall conſent, did by their mutuall Agreement or Ingagement, con<g ref="char:EOLunhyphen"/>ſtitute
+a new kind of Councell, wherby they would be Governed in their proſe<g ref="char:EOLunhyphen"/>cution
+of thoſe ends for which they aſſociated, and made every Officer incapa<g ref="char:EOLunhyphen"/>ble
+of being in that Councell, which did not aſſociate with them in that Ingage<g ref="char:EOLunhyphen"/>ment.
+The words of the Agreement or Ingagement are theſe: <q>we do here<g ref="char:EOLunhyphen"/>by declare, agree, and promiſe, to and with each other, that we ſhall no<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+willingly disband, nor divide, nor ſuffer our ſelves to be disbanded or divided
+without ſatisfaction in relation to our grievances and deſires heretofore pre<g ref="char:EOLunhyphen"/>ſented,
+<pb n="6" facs="tcp:116330:5"/>
+and ſecurity that we as private men or other the the free-born people
+of England, ſhall not remain ſubject to the like oppreſſion and injury as hath
+been attempted, and this ſatisfaction and ſecurity to be ſuch as ſhall be agreed
+unto by a Councell to conſiſt of thoſe generall Officers of the Army, who
+have concurred with the Army in the premiſes, with two Commiſſion-Officers,
+and two Souldiers to be choſen for each Regiment, who have concurred and
+ſhall concurre with us in the premiſes and in this Agreement.</q>
+            </p>
+            <p>So that your Excellency is ſo far from having a power to exerciſe the old
+Martiall Diſcipline, that you would have been no Officer nor Member of the
+Councell appointed to govern them, unleſſe you had aſſociated with them, and
+<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y that Aſſociation or mutual Ingagement, the Souldiers were ſo far from allow<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng
+to their Generall, who ever it ſhould have been (for at that time it was
+<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncertain) the power of excerciſing the old Martiall Diſcipline, that according
+<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Ingagement, no Officer or Souldier can be rightly Caſhiered unleſſe it
+<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e by the Councell conſtituted by that Ingagement: ſo that your Excellencie
+<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y your own Ingagement have put a period to your power of exerciſing your
+old Martiall Diſcipline, and whatſoever Diſcipline ſhall appear to the Army to
+<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e neceſſary, muſt be conſtituted by the mutuall conſent of the Army or their
+<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>epreſentatives, unleſſe you and they will diſclaim the Ingagement at New<g ref="char:EOLhyphen"/>market,
+and thoſe principles upon which you then ſtood, and yeeld up your
+ſelves to the Parliaments pleaſure, as their hirelings, to ſerve their arbitrarie
+power, like Turkiſh Janiſaries.</p>
+            <p>In the third place I anſwer, that it is againſt reaſon, law, conſcience, juſtice
+<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd equitie, to ſubject me at one and the ſame time, or any other free Commo<g ref="char:EOLhyphen"/>ner
+of England, under the ſting and power of two <hi>distinct Lawes,</hi> and ſuch a
+<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ondage as is inſupportable, and ſuch a ſnare of intanglement, that no mans
+<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ife whatſoever can be ſafe or ſecure under it, that I ſhall be liable to be queſti<g ref="char:EOLhyphen"/>oned
+and deſtroyed by the <hi>common Law of the Kingdome,</hi> and then be at the
+wills of <hi>mercenarie Turkiſh Ianiſaries,</hi> (in caſe the common Law will not reach
+me) to be queſtioned and deſtroyed by an unjuſt arbitrarie Marſhall law; and
+<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f it can be juſtly proved againſt me that I have made any tumults, the Law and
+<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ordinary Courts of Juſtice are open, by which and by no other rules and pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eedings
+I ought to be tried, and if it be ſaid or can be proved, that I have
+belied or ſcandalized the Generall,
+to the taking away of his good
+name, &amp;c. yet <hi>ſcandalum Magnatum</hi>
+is not to be tried by Martial Law, nor
+yet either <hi>by the Houſe of Commons, or
+the Houſe of Lords,</hi> but only &amp; alone
+(now the Star-Chamber is down) by
+an Action at Common Law<note n="*" place="margin">
+                  <hi>As is cleare by the Statutes of</hi> 3. Ed. 1. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3. &amp; 37. Ed. 3. 18. &amp; 38. Ed. 3. 9. &amp; 42. Ed. 3. 3. &amp; 2. R. 2. 5. &amp; 12. R. 2. 11. 5. <hi>part Cooks Reports,</hi> pag. 125. &amp; 13. H. 7. Kelway, &amp; 11. Eliz. Dier 285. &amp; 30. Aſſize pla. 19. &amp; Liev. Col. <hi>Lilburnes</hi> Grand Plea of 20. Octob. 1647. pag. 7. 8.</note>, by a
+<pb n="7" facs="tcp:116330:5"/>
+Jurie of my equalls, and no where elſe,
+it being a Maxime in Law, <hi>That where
+remedy may be had by an ordinary courſe
+in Law, the party grieved ſhall never
+have his recourſe to extraordinaries</hi>
+               <note n="*" place="margin">
+                  <hi>See</hi> Vox Plebis <hi>pag. 38. &amp; Lievt. Co<gap reason="illegible" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> Jo. Lilburnes Anatomie of the Lord Tirannie, pag. 10.</note>:
+And beſides, for you to proceed with
+me, and to be both Parties, Jurie and
+Judges, is a thing that the Law ab<g ref="char:EOLhyphen"/>horres<note n="†" place="margin">
+                  <hi>See</hi> 8. H. 6. fol. 21. &amp; 5. Eliz. Dier 22<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; Dr. Bonhams Caſe, 8. <hi>part of</hi> Cook Reports, &amp; <hi>Lieut. Col.</hi> Jo. Lilburnes grand Plea, pag. 10.</note>.</p>
+            <p>In the fourth and laſt place I anſwer, that the Parliament it ſelfe, neither by
+Act nor Ordinance can juſtly or warrantably deſtroy the fundamentall liberties
+and principles of the common Law of <hi>England;</hi> it being a Maxime in law and
+reaſon both, <hi>That all ſuch Acts and Ordinances are</hi> ipſo facto <hi>null and void in
+Law, and bind not at all, but ought to be reſiſted and ſtood againſt to the death.</hi>
+            </p>
+            <p>But for them to give you a power by Marſhall Law, or under any other
+name or title whatever, by your arbitrary tyrannicall wills without due courſe
+and proceſſe of Law, to take away the life or Liberty of me, or any free Com<g ref="char:EOLhyphen"/>moner
+of England whatſoever, yea, or anie of your owne ſouldiers in time of
+peace, when the Courts of Juſtice are all open
+and no viſible declared enemy in Armes in the
+Kingdome readie to deſtroy it, is an abſolute de<g ref="char:EOLhyphen"/>ſtroying
+of our fundamentall Liberties, and a ra<g ref="char:EOLhyphen"/>ſing
+of the foundation of the Common-Law of
+England<note n="*" place="margin">But beſides all this I doe confidently believe, that the Parliament never gave power unto the Generall ſince the Wars ended, to ex<g ref="char:EOLhyphen"/>ecute Marſhall Law; nei<g ref="char:EOLhyphen"/>ther doe I believe that ſome chiefe Executors of Marſhall Law have any legall Commiſſion from the Parliament, who never that I could heare of, ever gave power unto the Generall of himſelfe to make generall Officers: and beſides, all the Parlia<g ref="char:EOLhyphen"/>ment-men that are Officers in the Army were (as I have been groundedly told for<g ref="char:EOLhyphen"/>merly) taken off by an Ordinance of both Houſes, which was never replealed ſince.</note>.</p>
+            <p>
+               <hi>Ergo,</hi> ſuch a power of arbitrary Marſhall Law, cannot juſtly by the Parlia<g ref="char:EOLhyphen"/>ment
+in time of peace, <hi>&amp;c.</hi> be given unto you, nor (if it were) be juſtly or
+warrantably executed by you.</p>
+            <p>And beſides, both Houſes themſelves by an Ordinance (unleſſe they alter the
+whole Conſtitution of this Kingdome) can take away the life of no free Com<g ref="char:EOLhyphen"/>moner
+of England whatſoever, eſpecially in time of peace.</p>
+            <p>And therefore that which is not within their own power to do, they cannot
+by an Order or Ordinance grant power to Sir <hi>Thomas Fairfax</hi> &amp;c. to do, it be<g ref="char:EOLhyphen"/>ing
+a Maxime in nature, <hi>That beyond the power of being there is nor can be no being.</hi>
+            </p>
+            <p>
+               <pb n="8" facs="tcp:116330:6"/>
+But it is not in the power of the Parliament, or the two Houſe, or the
+Houſe of Commons themſelves, as the preſent
+Conſtitutions of this Kingdome ſtands, either by
+Order or Ordinance to take away the life of any
+free Commoner of England<note n="*" place="margin">See Sir <hi>Ed. Cooks</hi> 2. part Inſtitut. fol. 47, 48. &amp; 3. part, fol. 22. &amp; 4. part, fol. 23. 25. 48 291. all of which Bookes are publiſhed for good Law to the Kingdome by two ſpeciall Orders of the preſent Houſe of Commons, as you may read in the laſt page of the 2. part Inſtitut. ſee alſo the Petition of Right.</note>.</p>
+            <p>
+               <hi>Ergo,</hi> they cannot by an Ordinance or Order, eſpecially in times of peace,
+give power to Sir <hi>Thomas Fairfax</hi> by Marſhall Law, (unleſſe they totally alter
+the Conſtitutions of the Kingdome) to take away the life or lives of any free
+Commoners of England, <hi>(which all Souldiers are
+as well as others,</hi>
+               <note n="*" place="margin">See the Armies Declara<g ref="char:EOLhyphen"/>tion of the 14. <hi>June,</hi> 1647. Book of their Declarati<g ref="char:EOLhyphen"/>ons, pag. 39. and their Let<g ref="char:EOLhyphen"/>ter from Roiſton to the Lord Mayor of London <hi>of the 10. June,</hi> 1647. which the Printer hath neglected to print in their Book of De<g ref="char:EOLhyphen"/>clarations.</note>) and therefore it is abſolute mur<g ref="char:EOLhyphen"/>der
+in the Generall and the Councell of Warre,
+now to ſhoot to death, hang or deſtroy any Soul<g ref="char:EOLhyphen"/>dier
+or other Commoner whatever by Marſhall
+Law.</p>
+            <p>And therefore I doe the third time as a friend adviſe you, to ceaſe your ille<g ref="char:EOLhyphen"/>gall,
+arbitrarie, tirannicall Martiall Law-proceedings with me that am no Soul<g ref="char:EOLhyphen"/>dier,
+and ſo not under the leaſt pretence of your Martiall Juriſdiction, leaſt in
+time to come you pay as deare for your arbitrarie illegall proceedings with me,
+as Sir <hi>Richard Empſon</hi> and Mr. <hi>Edward Dudley</hi> Juſtices did, who as Sir <hi>Edward
+Cooke</hi> declares in his 2. &amp; 4. part of his Inſtitutes, were very officious and ready
+<q>to execute that illegall Act of Parliament made in the 11. <hi>H.</hi> 7. chap. 3. which
+gave power unto Juſtices of Aſſize, as well as Juſtices of the Peace (without
+anie finding or preſentment by the verdict of twelve men, being the ancient
+birth-right of the Subject) upon a bare information for the King before them
+made, to have full power and authoritie by their diſcretions to hear &amp; deter<g ref="char:EOLhyphen"/>mine
+al Offences or contempts committed or done by anie perſon, or perſons
+againſt the form, ordinance, effect of anie Statute made and not repealed, &amp;c.
+by colour of which act of Parliament, ſhaking (ſaith he) this fundamentall
+Law (viz. the 29. Chapter of <hi>Magna Charta)</hi> it is not credible what horrible
+oppreſſions and exactions, to the undoing of infinite numbers of people,
+were committed by them, for which</q> (though I cannot read they ſhot anie
+<pb n="9" facs="tcp:116330:6"/>
+man to death, and though they had an expreſſe Act of Parliament to beare
+them out, abundantly leſſe queſtionable
+then an Ordinance for exerciſing Martial
+Law) <q>they were both indicted of high
+treaſon both by the common Law and
+Act of Parliament, and in the 2. yeare
+of <hi>Henry</hi> 8. they both loſt their heads</q>
+               <note n="*" place="margin">
+                  <hi>See</hi> 2. part Inſtit. fol. 51. &amp; 4. part, fol. 41. 196, 197. <hi>but eſpecially read their Indictment</hi> verbatim <hi>ſet downe</hi> ibid. fol. 198, 199.</note>.</p>
+            <p>Therefore, from all the premiſes by way of concluſion. I draw up this pro<g ref="char:EOLhyphen"/>teſtation
+againſt you, that by the Laws and conſtitutions of this Kingdome,
+you have not the leaſt Iudicative power in the world over me; therefore, I
+cannot in the leaſt give you any Honour, Reverence or Reſpect, either in word
+action, or geſture: and if you by force and compulſion compell me again to
+come before you, I muſt and will by Gods aſſiſtance keep on my Hat, and look
+upon you as a company of murderers, Robbers and Theives, and doe the beſt
+I can to raiſe the Hue and Crie of the Kingdome againſt you, as a company of
+ſuch lawleſſe perſons, and therefore if there be any Honor, Honeſty and Con<g ref="char:EOLhyphen"/>ſcience
+in you, I require you as a free-born Engliſh man, to doe me Juſtice and
+right, by a formall diſmiſſing of me, and give me juſt reparation for my
+monethes unjuſt impriſonment by you, and for that loſſe of credit I have ſuſtai<g ref="char:EOLhyphen"/>ned
+thereby, that ſo things may goe no further; or els you will compell and
+neceſſitate me to ſtudy all waies and meanes in the world to procure ſatisfacti<g ref="char:EOLhyphen"/>on
+from you, and if you have any thing to lay to my charge, I am as an Engiſh<g ref="char:EOLhyphen"/>man
+ready to anſwer you at the common Law of England, and in the mean
+time I ſhall ſubſcribe my ſelfe</p>
+            <closer>
+               <signed>Your ſervant in your faithfull
+diſcharge of your dutie to
+your Maſters (the Commons
+of England) that pay you
+your wages,<hi>William Thompſon.</hi>
+               </signed>
+               <dateline>From my arbitrary and moſt
+illegall impriſonment in Wind<g ref="char:EOLhyphen"/>ſore,
+<date>this 14. Decemb. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The forementioned Letter thus followeth. </head>
+            <head>To his Excellency Sir <hi>Thomas Fairfax</hi> Knight, Captain-Generall of the Forces in
+the Nation for Imperiall Juſtice and Libertie, theſe preſent.</head>
+            <opener>
+               <salute>May it pleaſe your Excellency,</salute>
+            </opener>
+            <p>I Here preſent unto you a Declaration and Proteſtation againſt the illegall
+and unjuſt proceedings of your Counſell of Warre againſt me, I being a
+free Commoner of England, as in the preſence of the juſt God, before whoſe
+<pb n="10" facs="tcp:116330:7"/>
+Tribunall both you and I ſhall ſtand to give an Account of all ungodly deeds
+committed againſt him. And ſo I reſt,</p>
+            <closer>
+               <signed>Your Excellencies ſervant, if you
+are a true ſervant to the moſt
+excellent God for juſtice and
+righteouſnes in the earth, with<g ref="char:EOLhyphen"/>out
+reſpect of perſons.
+<hi>William Thompſon.</hi>
+               </signed>
+               <dateline>
+                  <date>Decemb. 14 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="petition">
+            <head>The Petition thus followeth.</head>
+            <head>To the right Honourable his Excellency Sir <hi>Thomas Fairfax</hi> Knight, Cap<g ref="char:EOLhyphen"/>tain
+Generall of all the forces raiſed in the Kingdome of England.
+The humble Petition of ſome of your <hi>Excellencies</hi> Officers and Souldiers,
+being under the cuſtody of the <hi>Marſhall Generall.</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>THat whereas there are miſ-preſentations of the intentions of the late <hi>A<g ref="char:EOLhyphen"/>gents</hi>
+of the Army and their adherents, by men of corrupt minds, who
+would make all the end of your own and your Armies <hi>noble</hi> and <hi>valiant At<g ref="char:EOLhyphen"/>chievements</hi>
+(under the power of God) fruitleſſe; and would deſtroy Juſtice
+and righteouſneſſe from amongſt men; and inſtead of common good, and
+equall diſtribution of juſtice, would advance a particular ſelfiſh intereſt: and
+to accompliſh their unworthy ſelfiſh ends, amongſt many other ſcandals caſt
+upon the late <hi>Agents,</hi> they have blazed abroad that they intended to mur<g ref="char:EOLhyphen"/>ther
+the King, and that one of them ſhould affirm it was lawfull: And whereas
+this was reported by one L. C. <hi>Henry Lilburne;</hi> it being altogether moſt abo<g ref="char:EOLhyphen"/>minable
+in our eyes, and detracts from the purity and righteouſneſſe of our
+Principles; tending only to make us odious to the <hi>People,</hi> for whoſe good a<g ref="char:EOLhyphen"/>lone
+we have run not only all former, but alſo theſe late hazards.</p>
+            <p>Wee therefore deſire that the ſaid L. C. <hi>Hen. Lilburne</hi> may be ſpeedily ſent for
+to teſtifie upon Oath (as in the preſence of God) who uſed thoſe words,
+where thoſe words were uſed, and when: and what in particular the
+words were; That ſo, ſuch a perſon may come under a publique cogni<g ref="char:EOLhyphen"/>zance,
+and your Excellencies faithfull ſervants and ſouldiers may
+free themſelves and others from ſuch aſperſions.</p>
+            <closer>And your Petitioners ſhall ever pray, &amp;c.
+<signed>
+                  <list>
+                     <item>Will. Eyers.</item>
+                     <item>Will. Bray,</item>
+                     <item>Will. Prior.</item>
+                     <item>John Wood.</item>
+                     <item>George Haſſall.</item>
+                     <item>Will. Everrard.</item>
+                     <item>John Croſſeman.</item>
+                     <item>Tho. Beverly.</item>
+                     <item>Will. Thomſon Commoner.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
